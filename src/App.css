@@ -1,0 +1,42 @@
+.App-header {
+  background-color: gray;
+  padding: 20px;
+  text-align: center;
+}
+
+.Text-header {
+  font-size: 150%;
+  font-style: bold;
+}
+
+.App-search {
+  padding: 20px;
+  text-align: center;
+}
+
+.Artist-search-form {
+  display: flex;  
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.Artist-search-form-element {
+  margin: 0px 10px;
+}
+
+.App-albums {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.Album-element {
+  width: 100px;
+  margin: 20px;
+  text-align: center;
+}
+
+.Album-element-logo img {
+  width: 100px;
+  height: auto;
+}
